@@ -700,7 +700,6 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     embms \
     imssettings \
-    uceShimService \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
