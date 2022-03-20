@@ -676,6 +676,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libantradio \
+    libgpustats \
     libqmiservices \
     libsdm-disp-vndapis \
     libthermalclient \
